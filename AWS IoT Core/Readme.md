@@ -1,4 +1,4 @@
-###CRISTHIAN ANTONIO MORALES ARISMENDI
+# **CRISTHIAN ANTONIO MORALES ARISMENDI**
 
 ¿Qué es AWS IoT Core?
 AWS IoT Core es un servicio en la nube administrado que permite a los dispositivos conectados interactuar de
