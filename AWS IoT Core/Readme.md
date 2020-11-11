@@ -3,7 +3,7 @@
 # AWS IoT Core
 by Giezy Martínez De La Cruz
 
-![iot](https://d1.awsstatic.com/IoT/diagrams/AWS%20IoT%20Core%20-%20Connect%20and%20Manage.edb43e92d542f4053727eaeda267e3776382fd06.png)
+![iot](https://docs.aws.amazon.com/es_es/iot/latest/developerguide/images/what-is-aws-iot.png)
 
 Es un servicio en la nube administrado que permite a los dispositivos conectados interactuar de manera fácil y segura con las aplicaciones en la nube y otros dispositivos. AWS IoT Core admite miles de millones de dispositivos y billones de mensajes, y es capaz de procesarlos y direccionarlos a puntos de enlace de AWS y a otros dispositivos de manera fiable y segura.
 
