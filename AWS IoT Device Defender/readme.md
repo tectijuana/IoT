@@ -6,7 +6,9 @@ AWS IoT Device Defender facilita el mantenimiento y el cumplimiento de las confi
 
 AWS IoT Device Defender le envía una alerta si encuentra deficiencias en su configuración de IoT que puedan crear riesgos de seguridad, como certificados de identidad compartidos por varios dispositivos o un dispositivo con un certificado de identidad rechazado que intenta conectarse a AWS IoT Core.
 
+AWS IoT Device Defender también le permite monitorizar continuamente métricas de seguridad de los dispositivos y de AWS IoT Core a fin de detectar desviaciones de los valores que haya definido como comportamiento apropiado para cada dispositivo. Si encuentra algo que no está en orden, AWS IoT Device Defender le envía un alerta para que pueda tomar medidas y solucionar el problema. Por ejemplo, los picos en el tráfico saliente pueden indicar que un dispositivo está participando en un ataque DDoS. AWS IoT Greengrass y FreeRTOS se integran automáticamente a AWS IoT Device Defender a fin de proporcionar métricas de seguridad de los dispositivos para su evaluación.
 
+AWS IoT Device Defender puede enviar alertas a la consola de AWS IoT, a Amazon CloudWatch y a Amazon SNS. Si determina que debe tomar una medida basada en una alerta, puede utilizar AWS IoT Device Management para llevar a cabo acciones de mitigación, p. ej., instalar correcciones de seguridad.
 
 
 
