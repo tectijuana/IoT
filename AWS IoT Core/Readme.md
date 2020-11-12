@@ -17,7 +17,9 @@ compatible con otros protocolos personalizados y propios del sector, y los dispo
 por:  CRISTHIAN ANTONIO MORALES ARISMENDI
 
 #
-Con AWS IoT Core puede filtrar, transformar y utilizar datos de dispositivos sobre la marcha según las reglas empresariales que haya establecido. Puede actualizar las reglas para implementar nuevas características de dispositivos y aplicaciones cuando lo desee. AWS IoT Core facilita la utilización de servicios de AWS, como AWS Lambda, Amazon Kinesis, Amazon S3, Amazon DynamoDB, Amazon CloudWatch y Amazon Elasticsearch Service para lograr aplicaciones de IoT incluso más eficientes.
+¿Qué beneficios traae AWS?
+
+AWS IoT Core proporciona configuración y autenticación automatizadas en la primera conexión de un dispositivo a AWS IoT Core, así como el cifrado de extremo a extremo en todos los puntos de conexión, de modo que los datos nunca se intercambian entre dispositivos y AWS IoT Core sin identidad comprobada. Asimismo, puede proteger el acceso a dispositivos y aplicaciones mediante políticas con permisos pormenorizados.
 
 Con AWS IoT Core puede filtrar, transformar y utilizar datos de dispositivos sobre la marcha según las reglas empresariales que haya establecido. Puede actualizar las reglas para implementar nuevas características de dispositivos y aplicaciones cuando lo desee. AWS IoT Core facilita la utilización de servicios de AWS, como AWS Lambda, Amazon Kinesis, Amazon S3, Amazon DynamoDB, Amazon CloudWatch y Amazon Elasticsearch Service para lograr aplicaciones de IoT incluso más eficientes.
 
