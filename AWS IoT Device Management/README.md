@@ -2,3 +2,14 @@
 Dado que muchas implementaciones de IoT contienen cientos de miles o hasta millones de dispositivos, resulta esencial realizar un seguimiento, monitorear y administrar las flotas de dispositivos conectados. Debe asegurarse de que sus dispositivos de IoT funcionen correctamente y de forma segura después de su implementación. También necesita proteger el acceso a sus dispositivos, controlar su estado, detectar y solucionar problemas de forma remota y administrar las actualizaciones de software y firmware.
 
 AWS IoT Device Management facilita el registro, la organización, la monitorización y la administración remota de dispositivos IoT a gran escala. Con AWS IoT Device Management, puede registrar los dispositivos conectados de forma individual o masiva y administrar fácilmente los permisos para que los dispositivos permanezcan seguros. También puede organizar los dispositivos, monitorizarlos y solucionar problemas de funcionalidad en ellos, consultar el estado de cualquier dispositivo IoT de su flota y enviar actualizaciones de firmware de forma transparente (OTA). AWS IoT Device Management es independiente del tipo de dispositivo y del sistema operativo, lo que permite administrar dispositivos desde microcontroladores básicos hasta automóviles conectados, todo con el mismo servicio. AWS IoT Device Management le permite ajustar la escala de las flotas y reducir el costo y el esfuerzo necesario para administrar grandes implementaciones de dispositivos IoT heterogéneos.
+
+# Beneficios de utilizar AWS IoT Device Management:
+
+- Registro rápido de dispositivos
+Con AWS IoT Device Management, puede agregar de forma masiva y segura atributos de dispositivos, como nombre de dispositivo, tipo y año de fabricación, certificados y políticas de acceso al registro de IoT, asignárselos a los dispositivos y poner en funcionamiento rápidamente grandes flotas de dispositivos conectados.
+- Organización sencilla de los dispositivos IoT
+AWS IoT Device Management le permite organizar sus dispositivos en grupos y administrar políticas de acceso para estos. Esa característica permite controlar, utilizar y administrar dispositivos de acuerdo con requisitos empresariales y de seguridad, como la implementación de una actualización de firmware en todos los dispositivos de un edificio o la definición de la manera en la que los dispositivos se comunicarán entre sí.
+- Localización rápida de los dispositivos conectados
+AWS IoT Device Management le permite buscar y encontrar rápidamente cualquier dispositivo de IoT en una flota de dispositivos entera casi en tiempo real.
+-Fácil administración remota de los dispositivos
+AWS IoT Device Management facilita el mantenimiento de las flotas de dispositivos en buen estado. Con AWS IoT Device Management, puede actualizar de manera remota el software que se ejecuta en los dispositivos después de que se hayan implementado, esto permite garantizar que los dispositivos siempre cuenten con el software más reciente.
