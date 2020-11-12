@@ -7,7 +7,7 @@ de dispositivos y billones de mensajes, y es capaz de procesarlos y direccionarl
 de manera fiable y segura. Con AWS IoT Core, sus aplicaciones 
 pueden realizar un seguimiento de todos los dispositivos y comunicarse con ellos en todo momento, incluso cuando no están conectados.
 
-¿Cómo funciona AWS IoT Core?
+# ¿Cómo funciona AWS IoT Core?
 AWS IoT Core permite conectar cualquier número de dispositivos a la nube y a otros dispositivos fácilmente. AWS IoT Core 
 admite HTTP, WebSockets y MQTT, un protocolo de comunicación ligero, especialmente diseñado para tolerar conexiones intermitentes, 
 minimizar la huella de código en los dispositivos y reducir los requisitos de ancho de banda de la red. Además, AWS IoT Core es 
@@ -16,8 +16,7 @@ compatible con otros protocolos personalizados y propios del sector, y los dispo
 
 por:  CRISTHIAN ANTONIO MORALES ARISMENDI
 
-#
-¿Qué beneficios traae AWS?
+# ¿Qué beneficios trae AWS?
 
 AWS IoT Core proporciona configuración y autenticación automatizadas en la primera conexión de un dispositivo a AWS IoT Core, así como el cifrado de extremo a extremo en todos los puntos de conexión, de modo que los datos nunca se intercambian entre dispositivos y AWS IoT Core sin identidad comprobada. Asimismo, puede proteger el acceso a dispositivos y aplicaciones mediante políticas con permisos pormenorizados.
 
