@@ -1,6 +1,6 @@
-# **CRISTHIAN ANTONIO MORALES ARISMENDI**
 
-¿Qué es AWS IoT Core?
+
+# ¿Qué es AWS IoT Core?
 AWS IoT Core es un servicio en la nube administrado que permite a los dispositivos conectados interactuar de
 manera fácil y segura con las aplicaciones en la nube y otros dispositivos. AWS IoT Core admite miles de millones 
 de dispositivos y billones de mensajes, y es capaz de procesarlos y direccionarlos a puntos de enlace de AWS y a otros dispositivos
@@ -12,3 +12,6 @@ AWS IoT Core permite conectar cualquier número de dispositivos a la nube y a ot
 admite HTTP, WebSockets y MQTT, un protocolo de comunicación ligero, especialmente diseñado para tolerar conexiones intermitentes, 
 minimizar la huella de código en los dispositivos y reducir los requisitos de ancho de banda de la red. Además, AWS IoT Core es 
 compatible con otros protocolos personalizados y propios del sector, y los dispositivos pueden comunicarse entre sí aunque utilicen protocolos distintos.
+
+
+por:  CRISTHIAN ANTONIO MORALES ARISMENDI
