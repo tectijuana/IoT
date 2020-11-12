@@ -22,4 +22,5 @@ Con AWS IoT Core puede filtrar, transformar y utilizar datos de dispositivos sob
 
 AWS IoT Core almacena el último estado de un dispositivo conectado para que pueda leerse o definirse en cualquier momento, lo que hace que el dispositivo aparezca en las aplicaciones como si estuviera conectado en todo momento. Esto supone que las aplicaciones pueden leer el estado de un dispositivo incluso si está desconectado; también permite definir el estado de un dispositivo e implementarlo cuando se vuelve a conectar.
 
+![Sensor](https://github.com/tectijuana/IoT/blob/main/AWS%20IoT%20Core/13.PNG "Sensor")
 
