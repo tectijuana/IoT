@@ -18,7 +18,12 @@ compatible con otros protocolos personalizados y propios del sector, y los dispo
 
 AWS IoT Core proporciona configuración y autenticación automatizadas en la primera conexión de un dispositivo a AWS IoT Core, así como el cifrado de extremo a extremo en todos los puntos de conexión, de modo que los datos nunca se intercambian entre dispositivos y AWS IoT Core sin identidad comprobada. Asimismo, puede proteger el acceso a dispositivos y aplicaciones mediante políticas con permisos pormenorizados.
 
+![Sensor](https://github.com/tectijuana/IoT/blob/main/AWS%20IoT%20Core/14.PNG "Sensor")
+
 Con AWS IoT Core puede filtrar, transformar y utilizar datos de dispositivos sobre la marcha según las reglas empresariales que haya establecido. Puede actualizar las reglas para implementar nuevas características de dispositivos y aplicaciones cuando lo desee. AWS IoT Core facilita la utilización de servicios de AWS, como AWS Lambda, Amazon Kinesis, Amazon S3, Amazon DynamoDB, Amazon CloudWatch y Amazon Elasticsearch Service para lograr aplicaciones de IoT incluso más eficientes.
+
+![Sensor](https://github.com/tectijuana/IoT/blob/main/AWS%20IoT%20Core/15.PNG "Sensor")
+
 
 AWS IoT Core almacena el último estado de un dispositivo conectado para que pueda leerse o definirse en cualquier momento, lo que hace que el dispositivo aparezca en las aplicaciones como si estuviera conectado en todo momento. Esto supone que las aplicaciones pueden leer el estado de un dispositivo incluso si está desconectado; también permite definir el estado de un dispositivo e implementarlo cuando se vuelve a conectar.
 
