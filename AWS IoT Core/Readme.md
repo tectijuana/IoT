@@ -1,5 +1,5 @@
 
-por:  CRISTHIAN ANTONIO MORALES ARISMENDI y JOSE GUADALUPE DE LA TORRE CHAVIRA
+por:  CRISTHIAN ANTONIO MORALES ARISMENDI, JOSE GUADALUPE DE LA TORRE CHAVIRA, DOMINGUEZ ROJAS HECTOR ADRIAN
 
 # ¿Qué es AWS IoT Core?
 AWS IoT Core es un servicio en la nube administrado que permite a los dispositivos conectados interactuar de
