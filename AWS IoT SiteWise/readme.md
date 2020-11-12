@@ -8,13 +8,13 @@ Puede utilizar AWS IoT SiteWise para modelar sus recursos físicos, procesos e i
 
 # Beneficios de SiteWise
 
-###### Recopile datos de todas sus fuentes de manera permanente
+## Recopile datos de todas sus fuentes de manera permanente
 Con AWS IoT SiteWise, puede recopilar datos de forma confiable desde múltiples instalaciones, estructurarlos y hacerlos accesibles y comprensibles, sin desarrollar software adicional. Puede consultar información y métricas de equipos o procesos en múltiples instalaciones, con el objeto de que estén disponibles para las aplicaciones. AWS IoT SiteWise tiene incorporadas las capacidades de recopilación, visualización y administración de datos que necesita. De esta manera, puede invertir sus recursos de desarrollo en aplicaciones nuevas que lo ayuden a obtener más información de sus datos.
 
-###### Identifique problemas rápidamente con el monitoreo remoto
+## Identifique problemas rápidamente con el monitoreo remoto
 Evalúe el rendimiento de su equipo industrial de forma remota, en todas las ubicaciones, con AWS IoT SiteWise. Antes, tenía que enviar a un técnico para diagnosticar un problema y luego enviar a otro para solucionar el problema. Ahora, puede diagnosticar un problema de forma remota y solo enviar a los técnicos cuando sea necesario para solucionarlos. Puede dedicar menos tiempo a la coordinación de las actividades de diagnóstico in situ y permitir que los ingenieros se centren en lo que hacen mejor: comprender sus operaciones y diseñar sistemas mejores.
 
-###### Mejore los procesos entre las instalaciones con un origen de datos central
+## Mejore los procesos entre las instalaciones con un origen de datos central
 La visibilidad en las instalaciones industriales le permite optimizar las operaciones, así como identificar las brechas y las deficiencias en la producción. Con IoT SiteWise, puede crear modelos de equipos y procesos industriales para numerosas instalaciones y, luego, descubrir y visualizar de manera automática datos históricos y actuales de sus recursos a través de gráficos y paneles personalizables. A través de SiteWise Monitor, puede lanzar en minutos una aplicación web que contenga los datos de sus recursos y brindar visibilidad a los ingenieros industriales para que puedan responder ante incidentes e identificar las diferencias entre las instalaciones. SiteWise Monitor facilita la creación de una fuente de información centralizada y autorizada con el fin de comprender mejor las operaciones, mejorar los procesos y reducir las deficiencias de producción en toda la organización.
 
 # Funcionamiento
