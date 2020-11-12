@@ -1,1 +1,3 @@
-# Kevin Piña Félix
+# AWS IoT SiteWise
+
+AWS IoT SiteWise es un servicio administrado que facilita las tareas de recopilación, almacenamiento, organización y monitoreo de los datos del equipo industrial a escala para ayudarlo a tomar mejores decisiones en función de los datos. Puede usar AWS IoT SiteWise para controlar las operaciones en diferentes instalaciones, computar rápidamente las métricas industriales de rendimiento y crear aplicaciones que analizan los datos de equipos industriales a fin de evitar problemas costosos en equipamientos y reducir las brechas de producción. Esto permite la recopilación sistemática de datos en dispositivos, la identificación rápida de problemas con el monitoreo remoto y la mejora de los procesos en múltiples sitios con datos centralizados.
