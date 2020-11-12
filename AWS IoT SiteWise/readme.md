@@ -18,4 +18,4 @@ Evalúe el rendimiento de su equipo industrial de forma remota, en todas las ubi
 La visibilidad en las instalaciones industriales le permite optimizar las operaciones, así como identificar las brechas y las deficiencias en la producción. Con IoT SiteWise, puede crear modelos de equipos y procesos industriales para numerosas instalaciones y, luego, descubrir y visualizar de manera automática datos históricos y actuales de sus recursos a través de gráficos y paneles personalizables. A través de SiteWise Monitor, puede lanzar en minutos una aplicación web que contenga los datos de sus recursos y brindar visibilidad a los ingenieros industriales para que puedan responder ante incidentes e identificar las diferencias entre las instalaciones. SiteWise Monitor facilita la creación de una fuente de información centralizada y autorizada con el fin de comprender mejor las operaciones, mejorar los procesos y reducir las deficiencias de producción en toda la organización.
 
 # Funcionamiento
-
+![](https://github.com/tectijuana/IoT/blob/main/AWS%20IoT%20SiteWise/funcionamiento.png)
