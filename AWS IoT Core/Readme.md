@@ -15,3 +15,12 @@ compatible con otros protocolos personalizados y propios del sector, y los dispo
 
 
 por:  CRISTHIAN ANTONIO MORALES ARISMENDI
+
+#
+Con AWS IoT Core puede filtrar, transformar y utilizar datos de dispositivos sobre la marcha según las reglas empresariales que haya establecido. Puede actualizar las reglas para implementar nuevas características de dispositivos y aplicaciones cuando lo desee. AWS IoT Core facilita la utilización de servicios de AWS, como AWS Lambda, Amazon Kinesis, Amazon S3, Amazon DynamoDB, Amazon CloudWatch y Amazon Elasticsearch Service para lograr aplicaciones de IoT incluso más eficientes.
+
+Con AWS IoT Core puede filtrar, transformar y utilizar datos de dispositivos sobre la marcha según las reglas empresariales que haya establecido. Puede actualizar las reglas para implementar nuevas características de dispositivos y aplicaciones cuando lo desee. AWS IoT Core facilita la utilización de servicios de AWS, como AWS Lambda, Amazon Kinesis, Amazon S3, Amazon DynamoDB, Amazon CloudWatch y Amazon Elasticsearch Service para lograr aplicaciones de IoT incluso más eficientes.
+
+AWS IoT Core almacena el último estado de un dispositivo conectado para que pueda leerse o definirse en cualquier momento, lo que hace que el dispositivo aparezca en las aplicaciones como si estuviera conectado en todo momento. Esto supone que las aplicaciones pueden leer el estado de un dispositivo incluso si está desconectado; también permite definir el estado de un dispositivo e implementarlo cuando se vuelve a conectar.
+
+por: JOSE GUADALUPE DE LA TORRE CHAVIRA
