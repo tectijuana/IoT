@@ -1,5 +1,4 @@
 # AWS IoT Analytics
-<div class=text-justify>
 <br>
 AWS IoT Analytics es un servicio completamente administrado que facilita la ejecución e instrumentación de análisis sofisticados de enormes volúmenes de datos de IoT, sin tener que preocuparse por todo el costo y la complejidad normalmente obligatorios en la creación de una plataforma de análisis de IoT. Es la manera más sencilla de ejecutar análisis de datos de IoT y obtener información con la que tomar decisiones mejores y más precisas para aplicaciones de IoT y casos de uso de aprendizaje automático.
 <br>
@@ -9,6 +8,5 @@ Los datos de IoT están muy desorganizados, lo cual dificulta el análisis con h
 [![Watch the video](https://img.youtube.com/vi/cYD0OU8Jdws/maxresdefault.jpg)](https://www.youtube.com/watch?v=cYD0OU8Jdws)
 
 AWS IoT Analytics automatiza cada uno de los difíciles pasos obligatorios para analizar los datos de los dispositivos IoT. AWS IoT Analytics filtra, transforma y enriquece datos de IoT antes de almacenarlos en un almacén de datos de series temporales para su análisis. Puede configurar el servicio para recopilar solo los datos que necesita de sus dispositivos, aplicar transformaciones matemáticas a los datos para procesarlos, y enriquecerlos con metadatos específicos del dispositivo, como el tipo de dispositivo y la ubicación, antes de almacenar los datos procesados. A continuación, puede analizar los datos mediante la ejecución de consultas ad hoc o programadas con el motor de consultas SQL integrado o llevar a cabo análisis más complejos e inferencias de aprendizaje automático. AWS IoT Analytics facilita comenzar a trabajar con el aprendizaje automático incluyendo modelos prediseñados para casos de uso de IoT comunes.
-</div>
 
 #### Jonathan Gonzalez Rosales, Marco Antonio Rodriguez Medrano, Daniel Alejandro Villanueva Mercado.
