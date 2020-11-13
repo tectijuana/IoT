@@ -5,6 +5,6 @@ AWS IoT Analytics es un servicio completamente administrado que facilita la ejec
 Los datos de IoT están muy desorganizados, lo cual dificulta el análisis con herramientas tradicionales de análisis e inteligencia empresarial diseñadas para procesar datos estructurados. Los datos de IoT suelen proceder de dispositivos que graban procesos con ruido (tales como temperatura, movimiento o sonido). Por ello, los datos de estos dispositivos pueden tener con frecuencia discontinuidades notables, mensajes dañados y lecturas falsas que se deben limpiar antes de poder llevar a cabo un análisis. Además, los datos de IoT suelen ser significativos solo en el contexto de entradas de datos adicionales de terceros. Por ejemplo, para ayudar a que los agricultores determinen cuándo tienen que regar sus cultivos, los sistemas de riego de viñedos suelen enriquecer los datos del sensor de humedad con datos sobre precipitaciones del viñedo, permitiendo un uso más eficiente del agua al tiempo que se maximiza el rendimiento de la cosecha.
 </br>
 
-
+[![Watch the video](https://img.youtube.com/vi/cYD0OU8Jdws/maxresdefault.jpg)](https://www.youtube.com/watch?v=cYD0OU8Jdws)
 
 #### Jonathan Gonzalez Rosales, Marco Antonio Rodriguez Medrano, Daniel Alejandro Villanueva Mercado.
