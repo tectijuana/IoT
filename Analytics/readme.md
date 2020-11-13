@@ -14,7 +14,7 @@ También puede utilizar su propio análisis personalizado, embalado en un conten
 AWS IoT Analytics es un servicio completamente administrado que instrumentaliza los análisis y se amplía automáticamente para soportar petabytes de datos de IoT. Con AWS IoT Analytics, puede analizar datos de millones de dispositivos y crear aplicaciones de IoT rápidas y con capacidad de respuesta sin administrar el hardware ni la infraestructura.
 
 ## Beneficios de AWS IoT Analytics
-<br>
+
 #### Instrumentalización de los flujos de trabajo analíticos
 
 Usted proporciona el análisis, AWS IoT Analytics automatiza la ejecución del análisis cuándo y dónde lo necesite. AWS IoT Analytics importará los contenedores de código escrito personalizados, herramientas externas integradas como Matlab, Octave, etc. y las ejecuta en su programa para generar información operativa, permitiéndole que disponga de más tiempo para centrarse en lo que mejor sabe hacer.
