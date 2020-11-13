@@ -9,4 +9,14 @@ Los datos de IoT están muy desorganizados, lo cual dificulta el análisis con h
 
 AWS IoT Analytics automatiza cada uno de los difíciles pasos obligatorios para analizar los datos de los dispositivos IoT. AWS IoT Analytics filtra, transforma y enriquece datos de IoT antes de almacenarlos en un almacén de datos de series temporales para su análisis. Puede configurar el servicio para recopilar solo los datos que necesita de sus dispositivos, aplicar transformaciones matemáticas a los datos para procesarlos, y enriquecerlos con metadatos específicos del dispositivo, como el tipo de dispositivo y la ubicación, antes de almacenar los datos procesados. A continuación, puede analizar los datos mediante la ejecución de consultas ad hoc o programadas con el motor de consultas SQL integrado o llevar a cabo análisis más complejos e inferencias de aprendizaje automático. AWS IoT Analytics facilita comenzar a trabajar con el aprendizaje automático incluyendo modelos prediseñados para casos de uso de IoT comunes.
 
+También puede utilizar su propio análisis personalizado, embalado en un contenedor, para ejecutarlo en AWS IoT Analytics. AWS IoT Analytics automatiza la ejecución de sus análisis personalizados creados en Jupyter Notebook o sus propias herramientas (como, por ejemplo, Matlab, Octave, etc.) que se deben ejecutar en su propio programa.
+
+AWS IoT Analytics es un servicio completamente administrado que instrumentaliza los análisis y se amplía automáticamente para soportar petabytes de datos de IoT. Con AWS IoT Analytics, puede analizar datos de millones de dispositivos y crear aplicaciones de IoT rápidas y con capacidad de respuesta sin administrar el hardware ni la infraestructura.
+
+## Beneficios de AWS IoT Analytics
+<br>
+###Instrumentalización de los flujos de trabajo analíticos
+<br>
+Usted proporciona el análisis, AWS IoT Analytics automatiza la ejecución del análisis cuándo y dónde lo necesite. AWS IoT Analytics importará los contenedores de código escrito personalizados, herramientas externas integradas como Matlab, Octave, etc. y las ejecuta en su programa para generar información operativa, permitiéndole que disponga de más tiempo para centrarse en lo que mejor sabe hacer.
+
 #### Jonathan Gonzalez Rosales, Marco Antonio Rodriguez Medrano, Daniel Alejandro Villanueva Mercado.
