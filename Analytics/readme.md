@@ -7,6 +7,4 @@ Los datos de IoT están muy desorganizados, lo cual dificulta el análisis con h
 
 
 
-#### Jonathan Gonzalez Rosales 
-#### Marco Antonio Rodriguez Medrano 
-#### Daniel Alejandro Villanueva Mercado
+#### Jonathan Gonzalez Rosales, Marco Antonio Rodriguez Medrano, Daniel Alejandro Villanueva Mercado.
