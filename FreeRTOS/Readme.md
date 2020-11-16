@@ -19,6 +19,6 @@ Los microcontroladores constan de un solo procesador con recursos limitados y es
 AWS proporciona una lista de 54 dispostivos que han sido probados para ejecutar FreeRTOS sin ningún problema, se encuentran microcontroladores de varias marcas y modelos. El siguiente dispositivo que se muestra a continuación presenta el precio más acequible y proporciona todas características necesarias para poder crear una solución IoT.
 
 | Nombre | img | Características | Precio(USD) |
-| --- | ---- | ------------ | --- |
-| ESP32-WROOM-32 DevKitC | ![](https://devices.amazonaws.com/device_images/a3G0L00000AANtjUAH/main_image_108c5db4-8fc0-4008-b5da-90860d97f208.jpeg) | $ 13.00
+| ----------- | ---- | ------------ | --- |
+| ESP32-WROOM-32 DevKitC | ![1](https://www.mouser.mx/images/espressifsystems/images/ESP32-DevKitC-32D_t.jpg) | Operating System: FreeRTOS. Network connectivity: Bluetooth, Bluetooth LE, Ethernet, Wi-Fi 2.4 GHz only. I/O interfaces: ADC, DAC, GPIO, I2C, I2S, JTAG / SWD, PWM, SATA, UART, USB. Programming Language: C/C++. Storage: Flash/NVRAM. Security: Hardware Encryption, Secure Boot, Secure Storage, SSL/TLS. Mounting / Form Factor: Embedded, External Antenna, Internal Antenna  | $ 13.00 |
 
