@@ -16,9 +16,14 @@ Los microcontroladores constan de un solo procesador con recursos limitados y es
 - Amplio soporte para ecosistema.
 - Puede usar AWS IoT Device Tester para verificar con confianza si sus dispositivos ejecutarán FreeRTOS e interactuarán con los servicios de AWS IoT.
 
+### Microcontroladores calificados.
+
 AWS proporciona una lista de 54 dispostivos que han sido probados para ejecutar FreeRTOS sin ningún problema, se encuentran microcontroladores de varias marcas y modelos. El siguiente dispositivo que se muestra a continuación presenta el precio más acequible y proporciona todas características necesarias para poder crear una solución IoT.
 
 | Nombre | img | Características | Precio(USD) |
 | ----------- | ---- | ------------ | --- |
 | ESP32-WROOM-32 DevKitC | ![1](https://images-na.ssl-images-amazon.com/images/I/51Kwcs%2BsO7L._AC_UL474_SR474,450_.jpg) | Operating System: FreeRTOS. Network connectivity: Bluetooth, Bluetooth LE, Ethernet, Wi-Fi 2.4 GHz only. I/O interfaces: ADC, DAC, GPIO, I2C, I2S, JTAG / SWD, PWM, SATA, UART, USB. Programming Language: C/C++. Storage: Flash/NVRAM. Security: Hardware Encryption, Secure Boot, Secure Storage, SSL/TLS. Mounting / Form Factor: Embedded, External Antenna, Internal Antenna  | $ 13.00 |
+
+### Trabajando con Arduino UNO.
+...
 
