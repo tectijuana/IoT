@@ -20,5 +20,5 @@ AWS proporciona una lista de 54 dispostivos que han sido probados para ejecutar 
 
 | Nombre | img | Características | Precio(USD) |
 | ----------- | ---- | ------------ | --- |
-| ESP32-WROOM-32 DevKitC | ![1](https://www.mouser.mx/images/espressifsystems/images/ESP32-DevKitC-32D_t.jpg) | Operating System: FreeRTOS. Network connectivity: Bluetooth, Bluetooth LE, Ethernet, Wi-Fi 2.4 GHz only. I/O interfaces: ADC, DAC, GPIO, I2C, I2S, JTAG / SWD, PWM, SATA, UART, USB. Programming Language: C/C++. Storage: Flash/NVRAM. Security: Hardware Encryption, Secure Boot, Secure Storage, SSL/TLS. Mounting / Form Factor: Embedded, External Antenna, Internal Antenna  | $ 13.00 |
+| ESP32-WROOM-32 DevKitC | ![1](https://images-na.ssl-images-amazon.com/images/I/51Kwcs%2BsO7L._AC_UL474_SR474,450_.jpg) | Operating System: FreeRTOS. Network connectivity: Bluetooth, Bluetooth LE, Ethernet, Wi-Fi 2.4 GHz only. I/O interfaces: ADC, DAC, GPIO, I2C, I2S, JTAG / SWD, PWM, SATA, UART, USB. Programming Language: C/C++. Storage: Flash/NVRAM. Security: Hardware Encryption, Secure Boot, Secure Storage, SSL/TLS. Mounting / Form Factor: Embedded, External Antenna, Internal Antenna  | $ 13.00 |
 
