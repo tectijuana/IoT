@@ -1,5 +1,5 @@
 ## IoT Events
-![](HowItWorks.png)
+![](HowItWorks.PNG)
 
 
 #Lara
