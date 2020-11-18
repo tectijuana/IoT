@@ -16,6 +16,6 @@ Además de mantener registros de actividad, controle el estado actual y las esta
 - Monitorear a escala: Define a detector model once for a specific type of device, and AWS IoT Events will automatically scale and manage all instances (detectors) of the device.
 - Seguir procesos de principio a fin: Cree un modelo de detector que genera un nuevo detector cada vez que se inicia un proceso y lo archiva cuando alcanza el estado de terminal designado.
 ## By:
-- Lara Angel 
+- Lara Solis Angel Armando 
 - Osorio Lopez Erik Geovanny  
-- Ramos Marcos 
+- Ramos Almaraz Marcos Manuel
